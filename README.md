@@ -8,7 +8,7 @@ I'm using [Node School](https://nodeschool.io/) lessons and [The Node Beginner B
 
 <b id="f1">1</b> [HTML5 Security and Storage APIs](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet#Storage_APIs)
 
-<b id="f2">2</b> [Stack Overflow, Local Storage and Security](https://stackoverflow.com/questions/17280390/can-local-storage-ever-be-considered-secure)
+<b id="f2">2</b> [Stack Overflow: Local Storage and Security](https://stackoverflow.com/questions/17280390/can-local-storage-ever-be-considered-secure)
 
 ## Purpose
 
@@ -25,9 +25,9 @@ I'm using [Node School](https://nodeschool.io/) lessons and [The Node Beginner B
 (Many improvements to be made to UX, UI, behavior! Work in progress.)
 
 
-#### Note: I've disabled the tooltips I implemented since current behaviour is disruptive. Debugging involves event capturing / bubbling. In the meantime, usage is as follows:
-
-(try adding several notes and manipulating them)
+#### Note: Usage notes below &darr; Debugging tooltip instructions for event capturing / bubbling.
+[**__Use it here!__**](https://todo-get-it-done.herokuapp.com/)
+(Add notes, edit, mark complete, archive to see features!)
 
 ##### New Notes:
 * "+" adds new note
@@ -41,9 +41,6 @@ I'm using [Node School](https://nodeschool.io/) lessons and [The Node Beginner B
 * "-" permanently removes note item
 
 Thanks for checking it out!
-
-[**__Get It Done practice app__**](https://todo-get-it-done.herokuapp.com/)
-
 
 ## Built Using
 
