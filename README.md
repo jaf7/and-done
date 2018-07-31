@@ -25,7 +25,7 @@ I'm using [Node School](https://nodeschool.io/) lessons and [The Node Beginner B
 (Many improvements to be made to UX, UI, behavior! Work in progress.)
 
 
-#### Note: Usage notes below &darr; Debugging tooltip instructions for event capturing / bubbling.
+#### Note: Usage notes below &darr; (Currently debugging tooltip instructions for event capturing / bubbling)
 [**__Use it here!__**](https://todo-get-it-done.herokuapp.com/)
 (Add notes, edit, mark complete, archive to see features!)
 
